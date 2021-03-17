@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bitbox-sdk": "^8.11.2",
+    "bitcore-lib-cash": "^9.0.0",
+    "grpc-bchrpc-node": "^0.15.0",
+    "slpjs": "^0.27.11"
+  }
+}
